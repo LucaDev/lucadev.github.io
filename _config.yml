@@ -21,8 +21,8 @@ github_username:  LucaDev
 # dribbble_username: jekyll
 # facebook_username: jekyll
 # flickr_username: jekyll
-instagram_username: l_uuc
-linkedin_username: lucakroeger
+instagram_username: l_uuca
+linkedin_username: luca-kroeger
 # xing_username: jekyll
 # pinterest_username: jekyll
 # youtube_username: globalmtb
@@ -83,26 +83,28 @@ content:
         quote: >
           Solving problems and helping our customers to get their IT working for instead of against them.
         description: | # this will include new lines to allow paragraphs
-            TODO
+          ToDo
       - layout: left
         title: Scrayos UG (haftungsbeschränkt)
         link: scrayos.net
         sub_title: Freelance
         caption: August 2017 - April 2019, October 2020 - Present
         quote: >
-          Solving problems and getting non cloud-native applications into the cloud. 
+          Getting non cloud-native applications into the cloud. 
         description: | # this will include new lines to allow paragraphs
             TODO
       - layout: left
         title: BOGE Compressed Air Systems GmbH & Co. KG
-        link: scrayos.net
+        link: boge.com
         sub_title: Intern
         caption: June 2017 - Juli 2017
         quote: >
           Gaining first experiances in a IT department
         description: | # this will include new lines to allow paragraphs
-            TODO
-
+          - Moving existing infrastructure into containerized environments
+          - Developing solutions for moving non cloud-native applications into the cloud.
+          - Implementing DevOps
+          - Server-Monitoring and Administration
 
   - title: Education
     layout: list
@@ -110,7 +112,7 @@ content:
       - layout: left
         title: Bielefeld University of Applied Sciences
         caption: October 2020 - 2023
-        sub_title: BSc Computer Science
+        sub_title: BSc Business Informatics
         quote: >
           The Bielefeld University of Applied Sciences (Fachhochschule Bielefeld) is the second largest education institution in Bielefeld, Germany.
         description: |
@@ -118,7 +120,7 @@ content:
       - layout: left
         title: Widukind Gymnasium Enger
         caption: '2012 - 2020'
-        sub_title: Abitur 1.9
+        sub_title: Abitur Ø1.9
         quote: >
           The Widukind Gymnasium in Enger is 
         description: |
@@ -130,10 +132,10 @@ content:
       - layout: left
         title: ITIL v3 Foundation
         link: https://www.peoplecert.org/for-corporations/certificate-verification-service
-        sub_title: IT Infrastructure Library
+        sub_title: Information Technology Infrastructure Library
         caption: 2020
         description: |
-            TODO
+          ITIL is a set of detailed practices for IT service management (ITSM) that focuses on aligning IT services with the needs of business.
             
   - title: A Little More About Me
     layout: text
