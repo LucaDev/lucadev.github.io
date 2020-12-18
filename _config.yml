@@ -92,7 +92,10 @@ content:
         quote: >
           Getting non cloud-native applications into the cloud. 
         description: | # this will include new lines to allow paragraphs
-            TODO
+          - Moving existing infrastructure into containerized environments
+          - Developing solutions for moving non cloud-native applications into the cloud.
+          - Implementing DevOps
+          - Server-Monitoring and Administration
       - layout: left
         title: BOGE Compressed Air Systems GmbH & Co. KG
         link: boge.com
@@ -101,10 +104,8 @@ content:
         quote: >
           Gaining first experiances in a IT department
         description: | # this will include new lines to allow paragraphs
-          - Moving existing infrastructure into containerized environments
-          - Developing solutions for moving non cloud-native applications into the cloud.
-          - Implementing DevOps
-          - Server-Monitoring and Administration
+          ToDo
+
 
   - title: Education
     layout: list
